@@ -1,0 +1,33 @@
+# Shared dependency versions for 64-bit Python 3.12 and 3.14.
+Flask==3.1.3
+joblib==1.6.0
+langdetect==1.0.9
+openpyxl==3.1.5
+pandas==2.3.3
+psutil==7.2.2
+rapidfuzz==3.14.6
+scikit-learn==1.9.0
+vaderSentiment==3.3.2
+
+# Keep model persistence and application dependencies consistent.
+numpy==2.5.2
+scipy==1.18.1
+cloudpickle==3.1.2
+narwhals==2.25.0
+threadpoolctl==3.6.0
+blinker==1.9.0
+click==8.5.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+Werkzeug==3.1.8
+six==1.17.0
+et_xmlfile==2.0.0
+python-dateutil==2.9.0.post0
+pytz==2026.3.post1
+tzdata==2026.3
+requests==2.34.2
+charset_normalizer==3.5.1
+idna==3.19
+urllib3==2.7.0
+certifi==2026.7.22
